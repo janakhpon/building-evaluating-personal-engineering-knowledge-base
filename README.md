@@ -10,7 +10,7 @@ Over the last couple of years, most of my work shifted to AI-assisted engineerin
 
 At some point the explanations became files. The files grew into a private git repository, just under 200 markdown documents by now, and every repo I work in carries a short manifest at its root that points whichever agent I am using that day at it.
 
-For most of this spring, I could not answer the obvious question. Does any of this actually help? I believed it did. In July I measured it, and some of what came back was uncomfortable.
+For the first few months, I could not answer the obvious question. Does any of this actually help? I believed it did. In July I measured it, and some of what came back was uncomfortable.
 
 ---
 
@@ -79,7 +79,7 @@ That loop is why each project starts a little further ahead than the last one.
 
 The claim behind the entire system is simple: an agent that reads the corpus should make better engineering decisions than one that does not. The conventions, the constraints, the lessons from old mistakes, all arrive with it.
 
-But a beautifully organised system can still do nothing. A strong model might already know everything in those files. For months, my only evidence was that answers felt better.
+But a beautifully organised system can still do nothing. A strong model might already know everything in those files. Until July, my only evidence was that answers felt better.
 
 > A knowledge base whose impact is unmeasured is a well-organised belief.
 
