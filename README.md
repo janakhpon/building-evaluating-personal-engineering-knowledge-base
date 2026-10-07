@@ -2,7 +2,7 @@
 
 _A well-organised belief, measured._
 
-![Article cover - ai engineering knowlege base](./assets/ai-engineering-kb.avif)
+![Article cover - The title beside code, notes and checklist pages feeding into an open book](./assets/ai-engineering-kb.avif)
 
 Second brains are usually discussed in two extremes. Some treat them as a lifestyle, with elaborate systems for capturing every thought. Others dismiss the whole idea as note-taking with extra steps. Mine started as neither. It started as an annoyance.
 
